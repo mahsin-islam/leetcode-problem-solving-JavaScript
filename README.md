@@ -2,9 +2,9 @@
 
 # [LeetCode](https://leetcode.com/problemset/algorithms/) 
 
-_If you like this project, please leave me a star._ &#9733;
+_If you like this repository, please leave me a star._ &#9733;
 
-> ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using JavaScript."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
+
 
 ## Array
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
